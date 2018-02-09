@@ -10,6 +10,7 @@ public class Main {
 		System.out.println("GitHub integration");
 		
 		System.out.println("Just new line");
+		System.out.println("And what about the conflicts?");
 	}
 
 }
