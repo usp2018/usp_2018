@@ -8,8 +8,9 @@ public class Main {
 	private static void displayInfo(){
 		System.out.println("USP 2018 Example project");
 		System.out.println("GitHub integration");
-		
 		System.out.println("Just new line");
+		//PC 1 add new comment line and new println
+		System.out.println("And there is it!");
 	}
 
 }
