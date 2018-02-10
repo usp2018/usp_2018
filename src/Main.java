@@ -12,6 +12,8 @@ public class Main {
 		System.out.println("And what about the conflicts?"+10);
 		//PC 1 add new comment line and new println
 		System.out.println("And there is it!");
+		//new comment 
+		System.out.println("New confict");
 	}
 
 }
