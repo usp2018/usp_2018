@@ -9,7 +9,7 @@ public class Main {
 		System.out.println("USP 2018 Example project");
 		System.out.println("GitHub integration");
 		System.out.println("Just new line");
-		System.out.println("And what about the conflicts?"+10);
+		System.out.println("And what about the conflicts?"+10+30);
 		//PC 1 add new comment line and new println
 		System.out.println("And there is it!");
 		//new comment 
